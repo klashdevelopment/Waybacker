@@ -1,0 +1,32 @@
+{
+  "name": "waybacker",
+  "version": "1.0.0",
+  "description": "Waybacker is a simple Node.js Wayback Machine API.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klashdevelopment/Waybacker.git"
+  },
+  "keywords": [
+    "wayback",
+    "machine",
+    "wayback",
+    "machine",
+    "archive",
+    "archive.org"
+  ],
+  "author": "GavinGoGaming",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/klashdevelopment/Waybacker/issues"
+  },
+  "homepage": "https://github.com/klashdevelopment/Waybacker#readme",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "puppeteer": "^19.11.0"
+  }
+}
